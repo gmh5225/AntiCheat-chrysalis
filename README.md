@@ -4,7 +4,6 @@ A small client-side user-mode anti-cheat.
 # TODO
 - Client
 - Client module
-- Module injection to the protected process.
 - Process module
 - Module module
 - User module
